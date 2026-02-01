@@ -330,7 +330,7 @@ Puedes usar, modificar y distribuir este software. Si lo modificas y lo distribu
 
 ## 👤 Autor
 
-**Juan**  
+**Juan Mora Delgado**  
 - Médico Internista | Hospital Universitario de Jerez
 - Profesor Asociado | Universidad de Cádiz
 - Antiexperto en IA y Salud
