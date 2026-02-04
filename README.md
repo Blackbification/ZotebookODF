@@ -132,7 +132,7 @@ ODF Scan convierte los marcadores `[@citekey]` en citas activas de Zotero que pu
 
 1. Ve a la página oficial: https://zotero-odf-scan.github.io/zotero-odf-scan/
 2. Descarga el archivo `.xpi` correspondiente a tu versión de Zotero
-3. En Zotero: **Herramientas** → **Complementos** (o **Add-ons**)
+3. En Zotero: **Herramientas** → **Extensiones** (o **Add-ons**)
 4. Clic en el icono de engranaje ⚙️ → **"Install Add-on From File..."**
 5. Selecciona el archivo `.xpi` que descargaste
 6. Reinicia Zotero
